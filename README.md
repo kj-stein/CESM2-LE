@@ -6,4 +6,4 @@ The code in this repository is shared as supporting material for the paper:
 
 The code has multiple authors and was written for a particular HPC environment, namely the IBS Center for Climate Physics supercomputer Aleph. As such, it cannot be run “out of the box”, and is being shared FOR REFERENCE ONLY.
 
-Each script contains comments from the author that includes their contact info. Please contact the individual author(s) if you have questions.
+Each script contains comments from the author(s) that includes their contact info; please contact them if you have questions.
